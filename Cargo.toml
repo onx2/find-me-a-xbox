@@ -1,0 +1,13 @@
+[package]
+name = "xbox"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.14.0", features = ["full"] }
+dotenv ="0.15.0"
+playwright = "0.0.19"
+chrono = "0.4.19"
+twilio-async = "0.5.0"
