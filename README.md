@@ -6,5 +6,6 @@ This is a little project I decided to make for fun. I doubt it will actually wor
 ## Getting Started
 Assuming you have rust installed, all you'd need to do is:
 
+- Create a Twilio trial account (or paid one but they give you $15 for free)
 - Create a `.env` file with all the proper variables
 - `cargo run`
